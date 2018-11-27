@@ -1,0 +1,45 @@
+residence,langs,expedition,status
+Chitab,аварский,"Archib, Chitab, Shalib",big
+Archib,арчинский,"Archib, Chitab, Shalib",small
+Shalib,лакский,"Archib, Chitab, Shalib",big
+Balkhar,лакский,"Balkhar, Tsulikana, Shukty, Kuli",big
+Kuli,лакский,"Balkhar, Tsulikana, Shukty, Kuli",big
+Tsulikana,лакский,"Balkhar, Tsulikana, Shukty, Kuli",big
+Shukty,шуктинский даргинского,"Balkhar, Tsulikana, Shukty, Kuli",medium
+Durangi,аварский,"Chankurbe, Durgeli, Durangi, Chabanmakhi",big
+Chabanmakhi,кадарский даргинский,"Chankurbe, Durgeli, Durangi, Chabanmakhi",medium
+Chankurbe,кадарский даргинский,"Chankurbe, Durgeli, Durangi, Chabanmakhi",medium
+Dorgeli,кумыкский,"Chankurbe, Durgeli, Durangi, Chabanmakhi",big
+Chuni,аварский,"Chuni, Tsukhta, Ubekimakhi",small
+Tsukhta,акушинский,"Chuni, Tsukhta, Ubekimakhi",medium
+Ubekimakhi,цудахарский,"Chuni, Tsukhta, Ubekimakhi",medium
+Darvag,азербайджанский,"Darvag, Ersi, Dyubek, Dzhavgat",big
+Ersi,азербайджанский,"Darvag, Ersi, Dyubek, Dzhavgat",big
+Dzhavgat,кайтагский,"Darvag, Ersi, Dyubek, Dzhavgat",medium
+Dyubek,табасаранский,"Darvag, Ersi, Dyubek, Dzhavgat",medium
+Kidero,аварский,"Hinuq, Kidero, Bezhta",medium
+Bezhta,бежтинский,"Hinuq, Kidero, Bezhta",medium
+Hinuq,гинухский,"Hinuq, Kidero, Bezhta",small
+Tad-Magitl',ахвахский,"Karata, Tokita, Tad-Magitl', Tlibisho",medium
+Tlibisho,багвалинский,"Karata, Tokita, Tad-Magitl', Tlibisho",medium
+Karata,каратинский,"Karata, Tokita, Tad-Magitl', Tlibisho",medium
+Tokita,тукитинский,"Karata, Tokita, Tad-Magitl', Tlibisho",small
+Khlyut,лезгинский,"Khlyut, Kiche, Rutul",big
+Kiche,рутульский,"Khlyut, Kiche, Rutul",medium
+Rutul,рутульский,"Khlyut, Kiche, Rutul",medium
+Ikhrek,рутульский,"Kina, Gel'mets, Ikhrek",medium
+Kina,рутульский,"Kina, Gel'mets, Ikhrek",medium
+Gel'mets,цахурский,"Kina, Gel'mets, Ikhrek",medium
+Shangoda,аварский,"Mukar, Uri, Shangoda",big
+Mukar,лакский,"Mukar, Uri, Shangoda",big
+Uri,лакский,"Mukar, Uri, Shangoda",big
+Kizhani,аварский,"Rikvani, Kizhani, Zilo",big
+Rikvani,аварский,"Rikvani, Kizhani, Zilo",medium
+Zilo,зиловский,"Rikvani, Kizhani, Zilo",medium
+Obokh,аварский,"Shangoda, Obokh, Megeb",big
+Shangoda,аварский,"Shangoda, Obokh, Megeb",big
+Megeb,мегебский,"Shangoda, Obokh, Megeb",small
+Tumenler,кумыкский,"Yangikent, Mallakent, Chumli, Tumenler",big
+Yangikent,кумыкский,"Yangikent, Mallakent, Chumli, Tumenler",big
+Chumli,муиринский диалект даргинского,"Yangikent, Mallakent, Chumli, Tumenler",medium
+Mallakent,муиринский диалект даргинского,"Yangikent, Mallakent, Chumli, Tumenler",medium
